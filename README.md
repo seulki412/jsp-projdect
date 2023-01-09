@@ -107,7 +107,7 @@
 
 </br>
 
-2. 페이지별 기능
-- 조회한 날짜에 따라 예약 가능한 객실 조회 기능 </br>
-![image](https://user-images.githubusercontent.com/116873132/206617053-df35daad-4937-4314-b649-ce84a1d4d653.png)
+2. 페이지별 기능 및 시연 영상 </br>
+🎞️ <a href="https://www.youtube.com/watch?v=CKm0IJFkW5M">프로젝트 발표 영상</a> </br>
+🎠 <a href="https://relic-payment-6b2.notion.site/JSP-SHINNA-HOTEL-307e62744b774292b9136e4a81c8a070">페이지별 기능</a> </br>
 
